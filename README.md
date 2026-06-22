@@ -1,5 +1,5 @@
 ### Home Page
-![Home Page](nutribite-health-hub-main/Screenshot%202026-06-22%20120256.png)
+![Home Page](nutribite-health-hub-main/Screenshot%202026-06-22%113752.png)
 
 # NutriBite 
 
