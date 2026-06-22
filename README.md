@@ -1,7 +1,18 @@
 # NutriBite 
 
+## Screenshots
+
 ### Home Page
-![Home Page](nutribite-health-hub-main/Screenshot%202026-06-22%113752.png)
+![Home Page](nutribite-health-hub-main/Screenshot%202026-06-22%20113752.png)
+
+### Recommendations
+![Recommendations](nutribite-health-hub-main/Screenshot%202026-06-22%20115716.png)
+
+### Nutrition Analysis
+![Nutrition Analysis](nutribite-health-hub-main/Screenshot%202026-06-22%20120138.png)
+
+### User Preferences
+![User Preferences](nutribite-health-hub-main/Screenshot%202026-06-22%20120254.png)
 
 NutriBite is a modern health-aware food delivery platform designed to help users make smarter food choices based on their personal nutrition goals. Instead of focusing only on food delivery, NutriBite provides detailed nutritional insights, health scores, and personalized meal recommendations to support healthier eating habits.
 
