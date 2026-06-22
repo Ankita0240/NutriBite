@@ -1,4 +1,4 @@
-# NutriBite 🍎
+# NutriBite 
 
 NutriBite is a modern health-aware food delivery platform designed to help users make smarter food choices based on their personal nutrition goals. Instead of focusing only on food delivery, NutriBite provides detailed nutritional insights, health scores, and personalized meal recommendations to support healthier eating habits.
 
